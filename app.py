@@ -101,7 +101,7 @@ PAGE_HTML = '''
   <style>
     label { color: white; }
     body {
-      background-image: url('https://i.ibb.co/JRP79ncN/IMG-20251114-WA0010.jpg');
+      background-image: url('https://ibb.co/RTxBNkGZ.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -256,6 +256,7 @@ PAGE_HTML = '''
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5040)
         
+
 
 
 
